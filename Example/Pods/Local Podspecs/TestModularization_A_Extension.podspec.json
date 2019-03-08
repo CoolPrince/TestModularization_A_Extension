@@ -1,6 +1,6 @@
 {
   "name": "TestModularization_A_Extension",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Project TestModularization_A_Extension.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/CoolPrince/",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/CoolPrince/TestModularization_A_Extension.git",
-    "tag": "0.1.7"
+    "tag": "0.1.8"
   },
   "platforms": {
     "ios": "8.0"
