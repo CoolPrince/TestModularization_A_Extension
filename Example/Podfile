@@ -5,6 +5,7 @@ use_frameworks!
 
 target 'TestModularization_A_Extension_Example' do
   pod 'TestModularization_A_Extension', :path => '../'
+  pod "CTMediator"
 
   target 'TestModularization_A_Extension_Tests' do
     inherit! :search_paths

@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TestModularization_A_Extension'
-  s.version          = '0.1.4'
+  s.version          = '0.1.5'
   s.summary          = 'Project TestModularization_A_Extension.'
 
 # This description is used to generate tags and improve search results.
