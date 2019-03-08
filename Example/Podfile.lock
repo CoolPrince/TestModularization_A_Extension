@@ -1,6 +1,6 @@
 PODS:
   - CTMediator (25)
-  - TestModularization_A_Extension (0.1.5):
+  - TestModularization_A_Extension (0.1.6):
     - CTMediator
 
 DEPENDENCIES:
@@ -17,8 +17,8 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   CTMediator: 830c1fc204b3a6abf2a059510c7380f56343da0f
-  TestModularization_A_Extension: 0c50bb3dc0c2d3eae6f293540eba372ae3d6c81b
+  TestModularization_A_Extension: e2338dd452543b87bf0f8181b6b3cfb34d289f71
 
-PODFILE CHECKSUM: 3a0e09902c3820e3a0d1e87600006580e5eb9671
+PODFILE CHECKSUM: 1bba7c8ecec58b16ebc94836d1de4548328fc1dd
 
 COCOAPODS: 1.6.1
