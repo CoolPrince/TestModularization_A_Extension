@@ -1,6 +1,11 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
+## CTMediator
+
+MIT
+
+
 ## TestModularization_A_Extension
 
 Copyright (c) 2019 cuchch@163.com <cuchch@163.com>
