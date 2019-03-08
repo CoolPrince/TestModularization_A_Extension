@@ -12,7 +12,7 @@ public extension CTMediator {
         print("A_Extension A_showSwift")
         let params = [
             "callback":callback,
-            kCTMediatorParamsKeySwiftTargetModuleName:"A_swift"
+            kCTMediatorParamsKeySwiftTargetModuleName:"TestModularization_A"
             ] as [AnyHashable : Any]
         if let viewController = self.performTarget("TestModularization_A", action: "Extension_ViewController", params: params, shouldCacheTarget: false) as? UIViewController {
             return viewController
